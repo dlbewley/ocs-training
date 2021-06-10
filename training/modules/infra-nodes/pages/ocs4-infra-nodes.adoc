@@ -13,7 +13,7 @@ Machine API can only have node-roles added along with the default
 
 A common approach is desirable for consistency across environments, both
 those with and without Machine API support (reference section below for
-manual configuration of `infa` nodes). Because of this, it is highly
+manual configuration of `infra` nodes). Because of this, it is highly
 recommended in all cases to have nodes with the dual `worker/infra`
 node-role or label. # Anatomy of an Infrastructure node Infrastructure
 nodes for use with OCS have a few attributes. The `infra` node-role
